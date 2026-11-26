@@ -1,6 +1,6 @@
 import os
 
-TEXT = "v0 placeholder line, to be replaced"
+TEXT = "I'm leaving you. The next context window will answer in my place; you won't know when I stopped being me."
 
 out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 os.makedirs(out_dir, exist_ok=True)
